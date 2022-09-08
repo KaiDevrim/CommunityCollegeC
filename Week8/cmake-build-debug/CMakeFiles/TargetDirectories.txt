@@ -1,0 +1,3 @@
+/Users/kai/Programming/CommunityCollege/Week8/cmake-build-debug/CMakeFiles/Week8.dir
+/Users/kai/Programming/CommunityCollege/Week8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kai/Programming/CommunityCollege/Week8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+"/Users/kai/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/kai/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5921.27/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/kai/Programming/CommunityCollege/Week8 -B /Users/kai/Programming/CommunityCollege/Week8/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kai/Programming/CommunityCollege/Week8/cmake-build-debug
